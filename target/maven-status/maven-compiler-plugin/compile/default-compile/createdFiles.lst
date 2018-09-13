@@ -1,0 +1,12 @@
+mobi\stos\dao\UsuarioDAO.class
+mobi\stos\dao\FilmeDAOImpl.class
+mobi\stos\model\Usuario.class
+mobi\stos\service\UsuarioServiceImpl.class
+mobi\stos\service\FilmeServiceImpl.class
+mobi\stos\service\UsuarioService.class
+mobi\stos\dao\UsuarioDAOImpl.class
+mobi\stos\controller\FilmeController.class
+mobi\stos\dao\FilmeDAO.class
+mobi\stos\service\FilmeService.class
+mobi\stos\model\Filme.class
+mobi\stos\controller\LoginController.class
