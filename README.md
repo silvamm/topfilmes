@@ -3,8 +3,7 @@ Aplicação Web para cadastro de filmes. /CRUD
 
 # Tecnologias utilizadas no momento
 
-- IDE: NetBeans 8.2
-- FRAMEWORKS: Spring MVC / JPA com HIBERNATE / BOOTSTRAP
+- FRAMEWORKS: Spring MVC / HIBERNATE / BOOTSTRAP
 - DEPENDÊNCIAS COM MAVEN
 
 # O que preciso para usar?
