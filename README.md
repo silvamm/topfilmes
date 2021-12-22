@@ -1,10 +1,9 @@
-﻿# TOPFilmes
-Aplicação Web para cadastro de filmes. /CRUD
+﻿# TopFilmes
+Aplicação Web para cadastro de filmes. Desenvolvidada para seleção de estágio.
 
-# Tecnologias utilizadas no momento
+# Tecnologias utilizadas 
 
-- FRAMEWORKS: Spring MVC / HIBERNATE / BOOTSTRAP
-- DEPENDÊNCIAS COM MAVEN
+- Spring MVC / Hibernate / Bootstrap / Maven
 
 # O que preciso para usar?
 
